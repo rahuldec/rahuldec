@@ -1,6 +1,8 @@
-[![LMS](https://img.shields.io/badge/ODTED-Live%20Demo-green?style=for-the-badge)](https://odted-emergent.vercel.app/)
+[![ODTED LMS](https://img.shields.io/badge/ODTED-LMS-success?style=for-the-badge)](https://your-odted-url.com)
 
-[![Create Assignment](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://www.createassignment.in/)
+[![Create Assignment](https://img.shields.io/badge/Create%20Assignment-Visit-blue?style=for-the-badge)](https://www.createassignment.in/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-sharma-03200626)
 
 
 
