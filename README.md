@@ -16,7 +16,7 @@ Building technology solutions for Schools, Colleges & Organizations through ERP,
 ## 🚀 About Me
 
 - 🏢 Customer Success Manager & HR at **Okie Dokie**
-- 🎓 Building **ODTED LMS**
+- 🎓 Building **LMS**
 - 👨‍💼 Developing **HRMS Solutions**
 - 🤖 Exploring AI-powered Education Tools
 - 🏫 Working closely with Schools & Colleges on ERP implementations
@@ -26,7 +26,7 @@ Building technology solutions for Schools, Colleges & Organizations through ERP,
 
 ## 💼 Featured Projects
 
-### 🎓 ODTED LMS
+### 🎓 LMS
 Learning Management System with:
 - Course Management
 - Video Learning
@@ -84,7 +84,7 @@ Generate educational assignments using AI for teachers and institutions.
 
 ## 🎯 2026 Goals
 
-- 🚀 Scale ODTED LMS
+- 🚀 Scale LMS
 - 🤖 Build More AI Products
 - 🌍 Reach 100+ Organizations
 - 📚 Learn Advanced React & FastAPI
