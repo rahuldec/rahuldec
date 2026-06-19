@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rahul Sharma 👋
 
-<!--
-**rahuldec/rahuldec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Customer Success Manager & HR @ Okie Dokie
 
-Here are some ideas to get you started:
+Building LMS, HRMS & AI-powered tools for Schools and Colleges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- LMS
+- HRMS Platform
+- AI Assignment Generator
+- School ERP Solutions
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Supabase
+- FastAPI
+
+## 📈 GitHub Stats
+Building real-world SaaS products and educational technology solutions.
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/rahul-sharma-03200626
+- Email: rahul.sharma@okiedokiepay.com
