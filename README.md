@@ -1,6 +1,6 @@
-[![ODTED Demo](https://img.shields.io/badge/ODTED-Live%20Demo-green?style=for-the-badge)](https://your-domain.com)
+[![LMS](https://img.shields.io/badge/ODTED-Live%20Demo-green?style=for-the-badge)](https://odted-emergent.vercel.app/)
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://your-domain.com)
+[![Create Assignment](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://www.createassignment.in/)
 
 
 
