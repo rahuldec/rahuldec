@@ -1,3 +1,9 @@
+[![ODTED Demo](https://img.shields.io/badge/ODTED-Live%20Demo-green?style=for-the-badge)](https://your-domain.com)
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://your-domain.com)
+
+
+
 <div align="center">
 
 # 👋 Hi, I'm Rahul Sharma
