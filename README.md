@@ -26,3 +26,7 @@ Building real-world SaaS products and educational technology solutions.
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/rahul-sharma-03200626
 - Email: rahul.sharma@okiedokiepay.com
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuldec&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldec&layout=compact)
