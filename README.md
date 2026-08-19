@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Sharma
 
-### Product-minded Developer • Automation Builder • Customer Success & HR
+### Product Developer • Automation Builder • Customer Success & HR
 
 I build practical software for **schools, colleges and organizations** — turning real operational problems into web applications, dashboards, automation tools and internal systems.
 
